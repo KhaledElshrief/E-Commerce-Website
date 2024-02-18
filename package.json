@@ -1,7 +1,6 @@
 {
   "name": "ecommerce",
   "version": "0.1.0",
-  "homepage": "https://KhaledElshrief.github.io/E-Commerce-Website",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.8.5",
